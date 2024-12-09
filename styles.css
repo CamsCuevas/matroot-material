@@ -135,6 +135,7 @@ ul{
     align-items: flex-start;
     list-style: none;
     font-size: 16px;
+    text-decoration: none;
 }
 
 header li{
@@ -150,6 +151,8 @@ button{
 }
 
 .navbar{
+    color: #F5F5F5;
+    text-decoration: none;
     display: flex;
     margin-right: 25px;
 }
@@ -364,4 +367,8 @@ button{
 
 .sonmistarjetasyodecidoeltamañodelaimagen{
   height: 18rem;
+}
+
+a{
+  text-decoration: none;
 }
